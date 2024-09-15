@@ -1,4 +1,5 @@
 const button = document.querySelector("button");
+console.log(typeof button);
 button.style.backgroundColor = "black";
 button.style.color = "white";
 
